@@ -1,0 +1,23 @@
+Smart Exam Lab Management System - Exam Report
+Generated: 2026-10-23 14:45:28
+
+Exam: Operating Systems Lab Exam (OS-EXAM-1)
+State: ACTIVE
+
+Registered students (all): 6
+Total registered PCs: 5
+PCs READY: 3 | WARNING: 0 | NOT_READY: 0 | DISCONNECTED: 0 | ASSIGNED: 2 | MAINTENANCE: 0
+Allocations in this exam: 2 (active: 2)
+Disconnection incidents (health records marked DISCONNECTED): 0
+Health warning records: 1
+Unresolved alerts: 0
+
+-- Assignment history --
+  STU-001 -> SIM-PC-05  assigned 2026-10-23 14:45:27  released -
+  STU-002 -> SIM-PC-01  assigned 2026-10-23 14:45:27  released -
+
+-- Unassigned students (no assignment ever in this exam) --
+  STU-003
+  STU-004
+  STU-005
+  STU-006

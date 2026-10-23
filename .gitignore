@@ -1,0 +1,10 @@
+bin/
+data/*.db
+data/*.db-wal
+data/*.db-shm
+reports/*.txt
+reports/*.csv
+config/server.conf
+config/client.conf
+*.o
+*.exe
